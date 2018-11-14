@@ -8,5 +8,8 @@ namespace RestaurantManager.Model
 {
     class Menu
     {
+        public String id;
+        public String numOfItems;
+        public String time;
     }
 }
