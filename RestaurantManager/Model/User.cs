@@ -11,5 +11,7 @@ namespace RestaurantManager.Model
         public String userName;
         public String displayName;
         public String sex;
+
+
     }
 }
